@@ -8,6 +8,7 @@ import code_fetcher
 
 DOWNLOAD_DIR = '/data'
 
+# TODO: replace appID=1239430 with actual id in file_name/url or move it to config
 REPORTS_FILES = {
     'sales': {
         'file_name': 'SteamSales_2020-04-30_to_2021-05-06',
